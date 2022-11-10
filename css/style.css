@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.brand-title{
+    margin-bottom: 3rem !important;
+}
+@media (min-width: 992px) {
+    .brand-title {
+        margin-top: 5rem !important;
+    }
+}
