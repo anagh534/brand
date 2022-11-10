@@ -5,6 +5,9 @@ body{
 .brand-title{
     margin-bottom: 3rem !important;
 }
+.featurette-heading{
+    color: #ff6584;
+}
 @media (min-width: 992px) {
     .brand-title {
         margin-top: 5rem !important;
